@@ -1,119 +1,212 @@
 # 👋 Hi, I'm Jinay Shah
 
-🚀 Frontend / Full-Stack Developer | 🤖 Data Science & AI/ML Enthusiast
-
-I'm a Computer Science Engineering graduate with an interest in
-building modern web applications and exploring Data Science,
-Artificial Intelligence and Machine Learning.
-
-💻 I enjoy building web applications with React, Next.js,
-TypeScript and Node.js.
-
-📊 I'm also interested in data analysis, machine learning,
-computer vision and AI-powered applications.
-
-🌱 Currently learning and improving my skills in
-Frontend Development, Data Science and AI/ML.
+🚀 Frontend / Full-Stack Developer | 🤖 AI/ML Enthusiast | 📊 Data Science Explorer
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### 💻 Development
+🎓 Computer Science Engineering graduate with a passion for building
+modern web applications and exploring Artificial Intelligence,
+Machine Learning, and Data Science.
 
-JavaScript • TypeScript • React • Next.js • Node.js • Express.js
-MongoDB • HTML • CSS • EJS
+💻 Currently working in Frontend Development and building applications
+using React, Next.js, TypeScript and modern web technologies.
 
-### 📊 Data Science
+🤖 Interested in Machine Learning, Computer Vision, Generative AI
+and AI-powered applications.
 
-Python • NumPy • Pandas • Matplotlib
-SQL • Power BI • Tableau
+📊 I enjoy working with Python, Pandas, NumPy, Data Analysis,
+Data Visualization and Machine Learning.
+
+✨ Always learning, experimenting and building new things.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 💻 Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black"/>
+</p>
+
+### 📊 Data Science & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</p>
 
 ### 🤖 AI / Machine Learning
 
-Scikit-learn • Machine Learning • Computer Vision
-OpenCV • Stable Diffusion • ComfyUI
+<p>
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stable_Diffusion-000000?style=for-the-badge&logo=stability-ai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ComfyUI-181717?style=for-the-badge&logoColor=white"/>
+</p>
 
-### 🔧 Tools
+### 🔧 Tools & Platforms
 
-Git • GitHub • VS Code • Anaconda
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🐾 PawBuddy
-Pet Care & Adoption Platform
+### 🐾 PawBuddy — Pet Care & Adoption Platform
 
-React.js • Next.js • TypeScript
+**React.js • Next.js • TypeScript**
 
-### 🏏 InningsPlay
-Full-Stack Cricket Scoring Application
+A responsive pet care and adoption platform built with reusable
+components, API integration and modern UI/UX practices.
 
-Node.js • Express.js • MongoDB • EJS
+---
 
-### 🖼️ PixelClean
-AI-powered Media Enhancement Platform
+### 🏏 InningsPlay — Full-Stack Cricket Scoring App
 
-Next.js • Python • AI • Image Processing
+**Node.js • Express.js • MongoDB • EJS**
+
+A full-stack cricket scoring platform for managing live matches,
+teams, players and scorecards.
+
+---
+
+### 🖼️ PixelClean — AI Media Enhancement Platform
+
+**Next.js • Python • AI • Image Processing**
+
+An AI-powered platform for image enhancement, background removal,
+logo removal, watermark removal and PDF processing.
+
+---
 
 ### 📊 Automated Dashboard & Report Generation System
 
-Upload datasets and automatically generate
-EDA, visualizations, insights and reports.
+**React.js • Node.js • Express.js • Python**
 
-React.js • Node.js • Python • Data Analytics
+A data analytics platform that allows users to upload datasets and
+automatically generate EDA, visualizations, insights and reports.
+
+---
 
 ### 👋 Gesture Controlled Software
 
-AI-based hands-free computer interaction system.
+**Python • OpenCV • AI**
 
-Python • OpenCV • AI
+An AI-based system for hands-free computer interaction using
+gesture and eye tracking.
 
 ---
 
 ## 🤖 Machine Learning Projects
 
-🔹 Bank Customer Churn Prediction
+🔹 **Bank Customer Churn Prediction**  
+Classification-based prediction of customer churn using
+business-driven features.
 
-🔹 Warranty Claims Fraud Prediction
+🔹 **Warranty Claims Fraud Prediction**  
+Fraud detection using supervised machine learning and
+imbalance-handling techniques.
 
-🔹 Movie Recommender System
+🔹 **Movie Recommender System**  
+Movie recommendation system based on user similarity metrics.
 
 ---
 
 ## 💼 Experience
 
-🚀 Software Development Intern  
-Radha IT Solutions
+### 🚀 Software Development Intern — Radha IT Solutions
 
-🤖 AI Virtual Intern  
-TechSaksham
+Working on web development, automation and AI-driven projects
+using Next.js, TypeScript and Python.
 
-📊 Data Science Virtual Intern  
-SkillCraft Technology
+### 🤖 AI Virtual Intern — TechSaksham
 
-💻 Full Stack & Machine Learning Virtual Intern  
-BrainyBeam Info-Tech
+Worked with Generative AI models such as Stable Diffusion and
+explored prompt engineering techniques.
+
+### 📊 Data Science Virtual Intern — SkillCraft Technology
+
+Worked on machine learning models, predictive analytics,
+data pipelines and visualization.
+
+### 💻 Full Stack & Machine Learning Virtual Intern — BrainyBeam
+
+Developed MERN-stack web applications and implemented machine
+learning models including SVM and k-NN.
 
 ---
 
 ## 📚 Currently Learning
 
-- Advanced React & Next.js
-- TypeScript
-- Data Science
-- Machine Learning
-- AI
-- Computer Vision
-- Building AI-powered applications
+🌐 Advanced Frontend Development
+
+⚛️ React & Next.js
+
+📘 TypeScript
+
+📊 Data Science & Data Analytics
+
+🤖 Machine Learning
+
+🧠 Artificial Intelligence
+
+👁️ Computer Vision
+
+🚀 AI-powered Web Applications
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jinay-shah-418966277">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-[GitHub](YOUR_GITHUB)
+  <a href="jinayshah1489@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[Email](YOUR_EMAIL)
+---
+
+⭐ Thanks for visiting my profile!
+
+✨ Keep Learning • Keep Building • Keep Growing
