@@ -173,26 +173,6 @@ learning models including SVM and k-NN.
 
 ---
 
-## 📚 Currently Learning
-
-🌐 Advanced Frontend Development
-
-⚛️ React & Next.js
-
-📘 TypeScript
-
-📊 Data Science & Data Analytics
-
-🤖 Machine Learning
-
-🧠 Artificial Intelligence
-
-👁️ Computer Vision
-
-🚀 AI-powered Web Applications
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
