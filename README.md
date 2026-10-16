@@ -6,18 +6,13 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering graduate with a passion for building
-modern web applications and exploring Artificial Intelligence,
-Machine Learning, and Data Science.
+🎓 Computer Science Engineering graduate with a passion for building modern web applications and exploring Artificial Intelligence, Machine Learning, and Data Science.
 
-💻 Currently working in Frontend Development and building applications
-using React, Next.js, TypeScript and modern web technologies.
+💻 Experienced in frontend and full-stack development, with hands-on exposure to React, Next.js, TypeScript, Node.js, Express.js, and database technologies.
 
-🤖 Interested in Machine Learning, Computer Vision, Generative AI
-and AI-powered applications.
+🤖 Interested in Machine Learning, Computer Vision, Generative AI and AI-powered applications.
 
-📊 I enjoy working with Python, Pandas, NumPy, Data Analysis,
-Data Visualization and Machine Learning.
+📊 I enjoy working with Python, Pandas, NumPy, Data Analysis, Data Visualization and Machine Learning.
 
 ✨ Always learning, experimenting and building new things.
 
@@ -89,60 +84,69 @@ Data Visualization and Machine Learning.
 
 ## 🚀 Featured Projects
 
-### 🐾 PawBuddy — Pet Care & Adoption Platform
+### 🌐 CareerConnect — Professional Networking Platform
 
-**React.js • Next.js • TypeScript**
-
-A responsive pet care and adoption platform built with reusable
-components, API integration and modern UI/UX practices.
+**JavaScript • Next.js • Node.js • Express.js • PostgreSQL**
+A full-stack professional networking application featuring user profiles, posts, likes, nested comments, connections, notifications, real-time messaging, job listings, and application management.
 
 ---
 
-### 🏏 InningsPlay — Full-Stack Cricket Scoring App
+### 🐾 PawBuddy — Pet Care & Adoption Platform
 
-**Node.js • Express.js • MongoDB • EJS**
-
-A full-stack cricket scoring platform for managing live matches,
-teams, players and scorecards.
+**React.js • Next.js • TypeScript**
+A responsive pet care and adoption platform built with reusable components, API integration and modern UI/UX practices.
 
 ---
 
 ### 🖼️ PixelClean — AI Media Enhancement Platform
 
 **Next.js • Python • AI • Image Processing**
+An AI-powered platform for image enhancement, background removal, logo removal, watermark removal and PDF processing.
 
-An AI-powered platform for image enhancement, background removal,
-logo removal, watermark removal and PDF processing.
+---
+
+### 💰 KhataFlow — Expense Management Application
+
+**JavaScript • Next.js • Node.js • Express.js • MongoDB**
+An expense management application focused on recording expenses, managing participants, handling shared expenses, and splitting costs between participants.
+
+---
+
+### 🤖 TalentMatchAI — Talent Matching Interface
+
+**JavaScript • Next.js**
+A frontend-focused project for a talent matching application, emphasizing user interface development and frontend implementation.
+
+---
+
+### 🏏 InningsPlay — Full-Stack Cricket Scoring App
+
+**Node.js • Express.js • MongoDB • EJS**
+A full-stack cricket scoring platform for managing live matches, teams, players and scorecards.
 
 ---
 
 ### 📊 Automated Dashboard & Report Generation System
 
 **React.js • Node.js • Express.js • Python**
-
-A data analytics platform that allows users to upload datasets and
-automatically generate EDA, visualizations, insights and reports.
+A data analytics platform that allows users to upload datasets and automatically generate EDA, visualizations, insights and reports.
 
 ---
 
 ### 👋 Gesture Controlled Software
 
 **Python • OpenCV • AI**
-
-An AI-based system for hands-free computer interaction using
-gesture and eye tracking.
+An AI-based system for hands-free computer interaction using gesture and eye tracking.
 
 ---
 
 ## 🤖 Machine Learning Projects
 
 🔹 **Bank Customer Churn Prediction**  
-Classification-based prediction of customer churn using
-business-driven features.
+Classification-based prediction of customer churn using business-driven features.
 
 🔹 **Warranty Claims Fraud Prediction**  
-Fraud detection using supervised machine learning and
-imbalance-handling techniques.
+Fraud detection using supervised machine learning and imbalance-handling techniques.
 
 🔹 **Movie Recommender System**  
 Movie recommendation system based on user similarity metrics.
@@ -150,26 +154,29 @@ Movie recommendation system based on user similarity metrics.
 ---
 
 ## 💼 Experience
+### 🚀 Tech Intern — Glazer Labs
+
+Worked primarily on frontend development using JavaScript and Next.js, implementing UI components and application features.
+Contributed to backend development using Node.js and Express.js, with exposure to PostgreSQL, MongoDB, and API integration.
+Collaborated on development tasks across multiple web applications in a staging environment, gaining practical exposure to product development workflows and full-stack development.
 
 ### 🚀 Software Development Intern — Radha IT Solutions
 
-Working on web development, automation and AI-driven projects
-using Next.js, TypeScript and Python.
+Developed responsive user interfaces and reusable components using Next.js and TypeScript.
+Contributed to full-stack development through REST API integration and backend functionality using Node.js and Express.js.
+Worked on AI-powered media processing and automated data analytics projects involving Python-based processing.
 
 ### 🤖 AI Virtual Intern — TechSaksham
 
-Worked with Generative AI models such as Stable Diffusion and
-explored prompt engineering techniques.
+Worked with Generative AI models such as Stable Diffusion and explored prompt engineering techniques.
 
 ### 📊 Data Science Virtual Intern — SkillCraft Technology
 
-Worked on machine learning models, predictive analytics,
-data pipelines and visualization.
+Worked on machine learning models, predictive analytics, data pipelines and visualization.
 
 ### 💻 Full Stack & Machine Learning Virtual Intern — BrainyBeam
 
-Developed MERN-stack web applications and implemented machine
-learning models including SVM and k-NN.
+Developed MERN-stack web applications and implemented machine learning models including SVM and k-NN.
 
 ---
 
