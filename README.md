@@ -187,7 +187,7 @@ Developed MERN-stack web applications and implemented machine learning models in
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="jinayshah1489@gmail.com">
+<a href="mailto:jinayshah1489@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
